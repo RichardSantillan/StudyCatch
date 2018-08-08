@@ -42,8 +42,9 @@ Clone the repository and begin!
 * **Richard Santillan** - *Latest Features* - [Richard Santillan](https://github.com/RichardSantillan)
 * **Michael Allred** - *Initial Work* - [Michael Allred](https://github.com/xMallred)
 
-Want to be a contributor? Do it! 
-Any & All help is appreciated!
+Want to be a contributor? Do it!
+
+All help is appreciated!
 
 ## License
 
